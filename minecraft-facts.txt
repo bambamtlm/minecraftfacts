@@ -8,3 +8,59 @@ Villagers communicate by making “hmm” sounds.
 Diamonds generate most commonly below Y-level 16.
 You can hear cave sounds even when no mobs are nearby.
 Minecraft was created by Markus “Notch” Persson.
+Nether portals can spawn in unusual places if obsidian is generated randomly.
+The Wither is the only boss that drops Nether Stars.
+Ghasts shoot explosive fireballs in the Nether.
+Piglins barter with gold ingots.
+Zombie villagers can be cured with a splash potion of Weakness and a golden apple.
+Endermen are neutral unless provoked or looked at directly.
+Slimes spawn in specific chunks below Y-level 40.
+Redstone can be used to create complex circuits and traps.
+Iron golems protect villages from hostile mobs.
+A skeleton horse can be spawned during a thunderstorm if struck by lightning.
+Shulkers hide in End cities and shoot projectiles that cause levitation.
+Mushroom islands have no hostile mob spawns except for strays.
+The enchantment “Mending” repairs items using XP orbs.
+The Elytra allows you to glide through the air.
+You can respawn the Ender Dragon using End crystals.
+Beehives and bees were added in version 1.15.
+Wolves can be tamed using bones.
+Cats can be tamed using raw fish.
+The “Far Lands” were a bug in older versions of Minecraft.
+You can dye sheep different colors.
+The Nether Update added new biomes and mobs.
+Glowstone can be used as a light source in the Nether.
+Frost Walker boots allow you to walk on water by freezing it.
+Lava can be used to fuel furnaces.
+You can fish up treasure items like enchanted books and bows.
+Banners can be customized with patterns.
+The Piglin Brute is stronger than a regular Piglin.
+Striders can walk on lava in the Nether.
+Campfires produce smoke that can be seen from far away.
+The “Bedrock” layer is unbreakable in Survival mode.
+End cities contain valuable loot including Elytra and shulker boxes.
+Bats spawn in dark areas of caves.
+Potion brewing allows players to create buffs and debuffs.
+Tridents can be thrown or used in melee combat.
+Phantoms spawn if players skip sleeping for three nights.
+Minecart rails can be powered using redstone torches.
+Ladders allow vertical movement without scaffolding.
+Turtles lay eggs on beaches and their babies hatch automatically.
+Totems of Undying prevent death once when held in the offhand.
+Villager professions determine their trades.
+Mojang originally developed Minecraft as a Java game.
+The game has cross-platform versions, including Bedrock and Console editions.
+Music discs can be found in dungeons or dropped by creepers killed by skeletons.
+The “End Gateway” allows access to outer End islands.
+Netherite tools are stronger than diamond tools.
+The Wither Skeleton drops a rare skull used to summon the Wither boss.
+Beacons provide buffs like speed or strength when powered correctly.
+Banner patterns can be combined for custom designs.
+Redstone comparators measure signal strength for advanced circuits.
+Endermen become passive during rain.
+Farms can be fully automated using redstone and pistons.
+Llamas can form caravans and follow each other.
+Rabbits drop rabbit hide, which can be crafted into leather.
+Villagers sleep at night in beds in villages.
+Slimes make “slime” sounds when they move and jump.
+Phantoms are immune to sunlight and spawn at night if players skip sleeping.
